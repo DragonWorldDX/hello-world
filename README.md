@@ -1,2 +1,2 @@
 # hello-world
-let's do something fun
+Ready for the revelution?
